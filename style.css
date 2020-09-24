@@ -2,6 +2,12 @@
 	background-color: #2874a6;
 	color: white;
 }
+#photo {
+	width:100px;
+	height:100px;
+	float :right;
+}
+
 
 header h1 {
 
@@ -10,18 +16,12 @@ header h1 {
 	font-size: 3em;
 }
 header {
-	/*background-color: #2874a6;
-	color: white;*/
-	padding: 20px 0px;
-	
 
+	padding: 1px 0px;
 }
 
-nav{
-	/*background-color: #2874a6;
-	color: white;*/
+nav{	
 	padding: 10px 50px;
-
 }
 nav p{
 	
@@ -29,22 +29,20 @@ nav p{
 }
 section {
 	padding: 30px 20px;
+
 }
 
 footer {
-	/*background-color: #2874a6;
-	color: white;*/
 	padding: 20px 0px;
 }
 footer p {
+	border
 	text-align: center;
-	font-size: 14px;
-	
+	font-size: 14px;	
 }
 aside {
 	float: right;
 	width: 20%;
 	background-color: lightblue;
-	padding: 20px 10px;
-	
+	padding: 20px 10px;	
 }
