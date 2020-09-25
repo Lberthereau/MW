@@ -3,46 +3,73 @@
 	color: white;
 }
 #photo {
-	width:100px;
-	height:100px;
+	width:150px;
+	height:150px;
 	float :right;
+	margin-right: 50px;
+}
+.rectangle {
+		background-color: lightgrey;
+		border: 3px solid lightgrey;
+		margin-right: 500px;
 }
 
+.ligneGrise {
+background-color: grey;
+}
 
+.GrasseColor{
+	color: #413be4;
+	font-weight: bold;
+}
 header h1 {
-
-	
 	text-align: center;
-	font-size: 3em;
+	font-size: 2em;
 }
 header {
-
-	padding: 1px 0px;
+	padding: 5px 0px;
 }
-
+section h1{
+	margin: 5px;
+	padding: 5px;
+	color: black;
+	font-size: 2em;
+}
+h2{
+	margin: 5px;
+	padding: 5px;
+	color: black;
+	font-size: 1.5em;
+}
+h3{
+	margin: 5px;
+	padding: 5px;
+	color: black;
+	font-size: 1.2em;
+}
 nav{	
-	padding: 10px 50px;
+	padding: 10px 10px;
 }
 nav p{
-	
 	font-size: 14px;
 }
 section {
 	padding: 30px 20px;
-
 }
 
 footer {
-	padding: 20px 0px;
-}
-footer p {
-	border
+	position:absolute;
+	bottom:0;
+	width:99%;
+	height: 10px;
+	top: 120%;
 	text-align: center;
 	font-size: 14px;	
+	padding: 20px;
 }
 aside {
 	float: right;
 	width: 20%;
 	background-color: lightblue;
-	padding: 20px 10px;	
+	padding: 10px 10px;	
 }
