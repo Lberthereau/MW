@@ -22,6 +22,12 @@ background-color: grey;
 	color: #413be4;
 	font-weight: bold;
 }
+#gris{
+	background-color: grey;
+}
+div{
+	
+}
 header h1 {
 	text-align: center;
 	font-size: 2em;
@@ -61,11 +67,10 @@ footer {
 	position:absolute;
 	bottom:0;
 	width:99%;
-	height: 10px;
-	top: 120%;
+	top: 150%;
 	text-align: center;
-	font-size: 14px;	
-	padding: 20px;
+	font-size: 2.1em;	
+	padding-top: 50px;
 }
 aside {
 	float: right;
